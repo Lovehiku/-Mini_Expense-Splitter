@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ElPoMdmbJQU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Documents\\-Mini_Expense-Splitter\\ExpenseSplitter\\src\\ExpenseSplitter.Api\\ExpenseSplitter.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
